@@ -53,3 +53,8 @@ h1 {
 .buttonEnviar {
     border-radius: 10px;
 }
+
+.label {
+    position: fixed;
+    
+}
