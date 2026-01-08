@@ -49,3 +49,7 @@ h1 {
     display: flex;
     flex-direction: row;
 }
+
+.buttonEnviar {
+    border-radius: 10px;
+}
