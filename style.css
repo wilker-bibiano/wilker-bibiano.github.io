@@ -6,7 +6,7 @@ h2 {
     color: blue;
 }
 
-select {
+.select {
    width: 50px;
    height: 10px; 
 }
