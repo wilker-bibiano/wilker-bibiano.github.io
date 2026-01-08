@@ -2,11 +2,12 @@ h1 {
   color: blue;
 }
 
-.FormulárioPrincipal {
+.form {
     display: flex;
     flex-direction: column;
-    width: 200px;
-    height: 80vh;
+    gap: 5px;
+    width: 90%;
+    height: 80%;
 }
 
 .select {
