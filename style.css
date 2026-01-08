@@ -20,6 +20,7 @@ h1 {
     width: 90%;
     height: 80%;
     margin-left: 10px;
+    color: #fff;
 
 }
 
@@ -38,7 +39,7 @@ h1 {
 }
 
 .motivo {
-    width: 800px;
-    height: 200px;
+    width: 1000px;
+    height: 100px;
 
 }
