@@ -6,4 +6,7 @@ h2 {
     color: blue;
 }
 
-
+select {
+   width: 50px;
+   height: 10; 
+}
