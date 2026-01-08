@@ -1,13 +1,14 @@
 h1 {
-  color: blue;
+  color: #fff;
   align-items: center;
   text-align: center;
+  background-color: blue;
 }
 
 .body {
     background-image: url("https://tse4.mm.bing.net/th/id/OIP.RHuv5-0Vs1vTdhtpx1uc1QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3");
-    width: 100vw;
-    height: 100vh;
+    width: 50vw;
+    height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
