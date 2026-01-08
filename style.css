@@ -25,6 +25,15 @@ h1 {
     font-size: 20px;
 }
 
+.linha-form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+
+
 .select {
    width: 100px;
    height: 30px; 
@@ -55,6 +64,9 @@ h1 {
 }
 
 .label {
-    position: fixed;
-    
+   width: 180px;           /* Tamanho fixo para todos os labels ficarem alinhados */
+    flex-shrink: 0;         /* Impede o label de esmagar se a tela diminuir */
+    color: white;           /* Cor para aparecer no seu fundo escuro */
+    text-align: right;      /* Alinha o texto à direita para encostar no input */
+    padding-right: 15px;    /* Espaço entre o texto e a caixa de digitação */
 }
