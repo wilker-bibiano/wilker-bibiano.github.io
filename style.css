@@ -1,5 +1,6 @@
 h1 {
   color: blue;
+  align-items: center;
 }
 
 .form {
@@ -8,6 +9,8 @@ h1 {
     gap: 5px;
     width: 90%;
     height: 80%;
+    margin-left: 10px;
+    border-color: brown;
 }
 
 .select {
