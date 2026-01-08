@@ -43,3 +43,7 @@ h1 {
     height: 100px;
 
 }
+.horizontal {
+    display: flex;
+    flex-direction: row;
+}
